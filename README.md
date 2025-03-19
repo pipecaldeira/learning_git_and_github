@@ -1,3 +1,3 @@
 # Learning Git and GitHub
 
-This README.md file is my first interaction with GitHub.
+This README.md file is now my second interaction with GitHub.
